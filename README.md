@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-# PROJECT NAME: GITHUB INTRODUCTION FOR BEGINNERS
+##### PROJECT NAME: GITHUB INTRODUCTION FOR BEGINNERS
 
 # DECRIPTION OF PROJECT
 This is a project working to introduce and intergrate github courses in the CBC curriculum
