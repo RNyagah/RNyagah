@@ -17,19 +17,12 @@ Here are some ideas to get you started:
 
 
 
-### About me
-Am a Customer service consultant with over 10 years experience, an avid learner, and pro active thinker.
+### PROJECT NAME: GITHUB INTRODUCTION FOR BEGINNERS
 
-I am passionate in learning about new technologies that would revolutionalize and positively disrupt and improve our daily life experiences.
+### DECRIPTION OF PROJECT
+This is a project working to introduce and intergrate github courses in the CBC curriculum
+in the formative years of school to encourage innovation and creativity in children, and 
+encourage a love of technology.
 
-### Background
 
-I am an Information systems graduate from the Kenya School of monetary studies. My interests in programming stem from wanting to leverage on technology and improve on daily life, by creating simple, sustainable applications to solve everyday problems.
-
-###  Interests
-
-     Hiking
-
-     Travelling.
-     
-     https://github.com/RNyagah
+### LINK: https://github.com/RNyagah
