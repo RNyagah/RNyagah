@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ##### PROJECT NAME: GITHUB INTRODUCTION FOR BEGINNERS
 
-# DECRIPTION OF PROJECT
+### DECRIPTION OF PROJECT
 This is a project working to introduce and intergrate github courses in the CBC curriculum
 in the formative years of school to encourage innovation and creativity in children, and 
 encourage a love of technology.
 
 
-# LINK: https://github.com/RNyagah
+##### LINK: https://github.com/RNyagah
